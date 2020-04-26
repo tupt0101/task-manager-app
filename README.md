@@ -1,4 +1,6 @@
 # task-manager-app
-React Native
+This is a simple task manager application for Android/iOS using React Native and NodeJS.
 
-asd 
+This app intergrates:
+- abc
+- xyz
